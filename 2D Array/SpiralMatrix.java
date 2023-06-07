@@ -48,6 +48,7 @@ public class SpiralMatrix {
         endCol--;
     }
     }
+    //end of prog
 
     public static void main(String[] args) 
     {
